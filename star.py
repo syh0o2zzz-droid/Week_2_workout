@@ -9,3 +9,4 @@ class Pyramid:
 height = int(input("피라미드 높이를 입력하세요: "))
 p = Pyramid(height)
 p.print_star_pyramid()
+# 역방향 피라미드
